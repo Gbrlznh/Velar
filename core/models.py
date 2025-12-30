@@ -1,3 +1,5 @@
 from django.db import models
 
-# Create your models here.
+# Criar Modelo para cadastro da empressa no Saas (Hotel, Motel e Pousada)
+ 
+
